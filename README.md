@@ -22,5 +22,4 @@
 
 #### 📫 Reach Me / 联系方式
 
-- 📖 **Blog**: [https://zxs-blog.cn](https://zxs-blog.cn)
 - ✉️ **Email**: [xz.ganbaruibro@gmail.com](mailto:xz.ganbaruibro@gmail.com)
